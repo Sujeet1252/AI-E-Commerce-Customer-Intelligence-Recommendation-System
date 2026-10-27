@@ -1,0 +1,23 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.vscode/
+.DS_Store
+
+# Large or private datasets
+data/raw/*
+!data/raw/README.md
+
+# Generated model artifacts
+models/*.pkl
+models/*.joblib
+!models/repeat_purchase_model_compressed.pkl
+!models/model_features.pkl
+
+# Temporary outputs
+.streamlit/
+
+data/processed/
