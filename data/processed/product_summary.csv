@@ -1,0 +1,551 @@
+product_id,product_name,category,units_sold,order_count,customers
+PROD10403,Chanda Deluxe Winter Wear,Fashion,14178,5946,4943
+PROD10341,"Solanki, Basic Winter Wear",Fashion,11704,4957,4282
+PROD10112,Soman Classic Comic,Books,10493,4448,3863
+PROD10101,"Memon, Compact Action Figure",Toys,9660,4120,3622
+PROD10392,Gandhi-Lanka Ultra Storage & Container,Home & Kitchen,8948,3795,3347
+PROD10417,Goda Ultra Air Conditioner,Appliances,8678,3742,3318
+PROD10031,Shah Basic Handbag,Bags,8915,3740,3336
+PROD10203,"Mistry, Basic Large Appliance",Appliances,8117,3504,3130
+PROD10488,Kar-Issac Premium Kids Wear,Fashion,7944,3375,3011
+PROD10246,"Chaudhry, Advanced Smartwatche",Electronics,7372,3107,2803
+PROD10510,"Iyer, Deluxe Supplement",Health & Wellness,7189,3062,2777
+PROD10322,Naik Everyday Notebook,Stationery,7128,3029,2775
+PROD10236,Shanker-Dhar Signature Headphone,Electronics,7078,3002,2726
+PROD10231,Setty Essential Formal Shoe,Footwear,6639,2838,2609
+PROD10118,Acharya-Modi Premium Ayurveda,Health & Wellness,5701,2425,2268
+PROD10367,Apte-Contractor Ultra Men's Topwear,Fashion,5394,2292,2129
+PROD10469,"Bhargava, Ultra Home Decor",Home & Kitchen,4954,2141,2008
+PROD10078,"Sunder, Classic Women's Western Wear",Fashion,4837,2096,1961
+PROD10152,Behl-Chanda Advanced Camera,Electronics,4331,1880,1768
+PROD10035,Sankar Basic Supplement,Health & Wellness,4254,1851,1751
+PROD10327,"Murty, Pro Sports Shoe",Footwear,4273,1843,1746
+PROD10051,Ramakrishnan Advanced Winter Wear,Fashion,4170,1833,1712
+PROD10499,"Konda, Premium Bedding",Home & Kitchen,4204,1809,1704
+PROD10366,Ghosh-Mitra Everyday Men's Topwear,Fashion,4158,1805,1721
+PROD10255,Vaidya-D’Alia Smart Fitness Equipment,Sports,3681,1599,1529
+PROD10211,D’Alia-Chhabra Ultra Storage & Container,Home & Kitchen,3213,1405,1340
+PROD10304,Chander Basic Haircare,Beauty,3128,1345,1300
+PROD10258,Wali-Nadig Basic Bath & Body,Personal Care,2982,1272,1234
+PROD10335,"Sunder, Compact Pet Food",Pet Supplies,2932,1264,1220
+PROD10509,Thaman-Sandhu Premium Home Decor,Home & Kitchen,2566,1123,1080
+PROD10176,Gola Advanced Smartwatche,Electronics,2576,1109,1077
+PROD10269,Barad-Singhal Deluxe Grooming,Personal Care,2609,1108,1058
+PROD10124,"Iyer, Advanced Baby Food",Baby Care,2533,1077,1042
+PROD10092,"Mittal, Premium Snack",Grocery,2483,1064,1033
+PROD10524,Iyengar Basic Makeup,Beauty,2336,1026,996
+PROD10527,Behl-Chanda Compact Camera,Electronics,2234,956,937
+PROD10072,"Boase, Essential Tablet",Electronics,2163,910,885
+PROD10481,"Dash, Deluxe Sandals & Flip Flop",Footwear,2077,900,876
+PROD10333,"More, Premium Fans & Cooler",Appliances,2059,888,860
+PROD10541,Mangal-Sampath Deluxe Children's Book,Books,1994,869,846
+PROD10157,Murthy Basic Ayurveda,Health & Wellness,1970,864,841
+PROD10210,Kapoor Smart Power Bank,Mobile Accessories,2032,864,839
+PROD10225,"Chaudhari, Ultra Fragrance",Beauty,1943,864,828
+PROD10422,"Lala, Classic Storage & Container",Home & Kitchen,1999,859,835
+PROD10153,"Nagy, Smart Speaker",Electronics,1933,849,817
+PROD10346,Gupta-Kumar Basic Cable,Mobile Accessories,1943,848,823
+PROD10316,"Loke, Signature Office Stationery",Stationery,1962,845,828
+PROD10067,Dutta-Chokshi Classic Formal Shoe,Footwear,1955,845,825
+PROD10365,Bhatti-Kakar Everyday Travel Bag,Bags,1983,837,807
+PROD10129,Handa Pro Women's Casual,Footwear,1931,819,789
+PROD10004,"Sami, Premium Home Decor",Home & Kitchen,1898,812,798
+PROD10017,"Chaudhry, Signature Academic",Books,1745,776,755
+PROD10187,Kapoor Classic Grooming,Personal Care,1780,768,756
+PROD10301,"Choudhury, Ultra Laptop",Electronics,1777,759,733
+PROD10007,Gara-Chad Ultra Women's Ethnic Wear,Fashion,1734,741,723
+PROD10019,Kala-Rattan Classic Dinnerware,Home & Kitchen,1719,730,708
+PROD10192,Acharya-Modi Compact Ayurveda,Health & Wellness,1648,722,705
+PROD10379,Andra Smart Art Supplie,Stationery,1644,700,679
+PROD10525,Madan-Kanda Ultra Travel Bag,Bags,1579,698,682
+PROD10155,"Ahluwalia, Deluxe Dinnerware",Home & Kitchen,1635,690,678
+PROD10383,"Mittal, Signature Educational Toy",Toys,1574,682,672
+PROD10172,Mangal-Sampath Ultra Packaged Food,Grocery,1520,673,661
+PROD10279,Kade-Sani Pro Grooming,Personal Care,1520,662,640
+PROD10355,Memon Everyday Fans & Cooler,Appliances,1568,659,646
+PROD10216,Nath Basic Winter Wear,Fashion,1569,657,640
+PROD10085,Khatri-Bhardwaj Deluxe Office Stationery,Stationery,1475,633,625
+PROD10535,Naik Signature Non-Fiction,Books,1437,620,607
+PROD10374,"Bhargava, Basic Board Game",Toys,1409,617,604
+PROD10177,"Murthy, Everyday Dinnerware",Home & Kitchen,1361,616,594
+PROD10434,Gara-Chad Advanced Ayurveda,Health & Wellness,1398,612,607
+PROD10484,Lal Essential Laptop,Electronics,1466,609,598
+PROD10418,Pingle Classic Grooming,Personal Care,1434,608,592
+PROD10247,Setty Ultra Baby Food,Baby Care,1383,606,592
+PROD10267,Morar Basic Art Supplie,Stationery,1423,605,589
+PROD10393,Shanker-Dhar Essential Dairy,Grocery,1406,602,589
+PROD10280,Parmer Premium Ayurveda,Health & Wellness,1362,602,592
+PROD10018,Rai Premium Non-Fiction,Books,1395,598,585
+PROD10376,Bhatti-Kakar Everyday Speaker,Electronics,1383,596,588
+PROD10317,"Krish, Basic Men's Topwear",Fashion,1394,594,577
+PROD10042,"Mistry, Ultra Skincare",Beauty,1285,576,568
+PROD10512,Grewal Classic Ayurveda,Health & Wellness,1318,568,562
+PROD10435,"Boase, Ultra Air Conditioner",Appliances,1265,553,544
+PROD10521,Nath Basic Camera,Electronics,1288,548,538
+PROD10272,"Nagy, Basic Oral Care",Personal Care,1190,545,535
+PROD10148,"Bhargava, Essential Men's Bottomwear",Fashion,1263,539,532
+PROD10117,Gara-Chad Basic Home Decor,Home & Kitchen,1184,523,514
+PROD10429,Bhatti-Kakar Everyday Digital Watche,Watches,1220,523,513
+PROD10408,Kala-Vaidya Smart Snack,Grocery,1216,523,515
+PROD10021,Barad-Singhal Advanced Men's Bottomwear,Fashion,1162,522,507
+PROD10181,Amble Essential Yoga,Sports,1144,512,500
+PROD10382,Zacharia Pro Handbag,Bags,1164,508,504
+PROD10390,Ramakrishnan Advanced Packaged Food,Grocery,1182,504,497
+PROD10498,Grewal Signature Men's Bottomwear,Fashion,1157,500,492
+PROD10526,Gupta-Chandra Ultra Living Room,Furniture,1155,500,492
+PROD10233,Soman Essential Cookware,Home & Kitchen,1110,496,491
+PROD10490,Mallick Basic Handbag,Bags,1133,495,482
+PROD10230,"Sampath, Premium Snack",Grocery,1118,495,485
+PROD10380,"Yadav, Essential Storage",Furniture,1117,494,492
+PROD10133,Memon Compact Electronic Instrument,Musical Instruments,1168,491,481
+PROD10040,Setty Advanced Staple,Grocery,1121,489,482
+PROD10445,Kala-Vaidya Deluxe Laptop,Electronics,1122,486,480
+PROD10098,"Boase, Basic Grooming",Personal Care,1154,482,479
+PROD10503,Gola Ultra Kids Wear,Fashion,1092,481,472
+PROD10305,Patla-Gaba Advanced Soft Toy,Toys,1105,479,476
+PROD10508,Parmer Essential Yoga,Sports,1061,478,471
+PROD10268,"Bir, Smart Screen Guard",Mobile Accessories,1080,474,467
+PROD10421,Mody-Kari Basic Smartphone,Electronics,1052,466,462
+PROD10294,Gola Deluxe Soft Toy,Toys,1107,465,458
+PROD10135,"Yadav, Ultra Electronic Instrument",Musical Instruments,1088,454,447
+PROD10164,Rai Advanced Power Bank,Mobile Accessories,1013,454,444
+PROD10163,Gandhi-Lanka Smart Pet Grooming,Pet Supplies,1041,452,442
+PROD10437,"Nair, Advanced Dairy",Grocery,996,447,438
+PROD10174,"Prakash, Ultra Storage & Container",Home & Kitchen,1035,445,435
+PROD10548,Chanda Everyday Kids Wear,Fashion,1026,441,430
+PROD10167,Boase-Narayanan Deluxe Phone Case,Mobile Accessories,998,436,432
+PROD10531,"Yohannan, Compact Tablet",Electronics,1007,435,424
+PROD10458,Behl-Chanda Ultra Women's Western Wear,Fashion,1015,433,427
+PROD10002,"Murty, Advanced Women's Casual",Footwear,984,431,424
+PROD10411,"Baral, Classic Air Conditioner",Appliances,1001,431,421
+PROD10041,Morar Signature Action Figure,Toys,1026,431,427
+PROD10343,Keer Ultra Car Accessorie,Automotive Accessories,985,428,422
+PROD10528,"Kade, Deluxe Charger",Mobile Accessories,943,422,418
+PROD10511,Sidhu-Wadhwa Deluxe Makeup,Beauty,943,421,412
+PROD10349,Gupta-Chandra Everyday Fans & Cooler,Appliances,949,420,417
+PROD10228,Amble Advanced Art Supplie,Stationery,965,420,418
+PROD10024,Patla-Gaba Signature Haircare,Beauty,963,417,410
+PROD10126,Roy-Sibal Premium Office Stationery,Stationery,962,412,405
+PROD10207,"Iyer, Ultra Men's Topwear",Fashion,934,407,400
+PROD10023,"Prakash, Advanced Phone Case",Mobile Accessories,948,405,399
+PROD10209,Kohli-Divan Ultra Backpack,Bags,941,403,396
+PROD10440,Soman Essential Car Accessorie,Automotive Accessories,927,403,398
+PROD10111,"Chaudry, Everyday Staple",Grocery,902,401,398
+PROD10368,Pant-Kadakia Everyday Non-Fiction,Books,924,397,394
+PROD10099,"Memon, Premium Office Equipment",Office Supplies,914,396,391
+PROD10064,"Sampath, Basic Baby Gear",Baby Care,916,391,385
+PROD10416,Barad-Singhal Smart Fiction,Books,891,388,385
+PROD10439,Koshy Essential Backpack,Bags,916,388,386
+PROD10387,"Chaudry, Everyday Winter Wear",Fashion,914,388,383
+PROD10242,Murthy Compact Educational Toy,Toys,920,385,377
+PROD10262,Boase-Mallick Advanced Action Figure,Toys,880,382,378
+PROD10372,Kala-Vaidya Premium Sandals & Flip Flop,Footwear,866,381,376
+PROD10038,Sidhu-Wadhwa Compact Pens & Pencil,Stationery,897,379,375
+PROD10266,Palla Everyday Packaged Food,Grocery,876,379,376
+PROD10205,"Lala, Smart Children's Book",Books,877,376,373
+PROD10297,"Prakash, Advanced Skincare",Beauty,878,374,371
+PROD10549,"Sunder, Smart Medical Device",Health & Wellness,849,374,366
+PROD10370,"Loke, Smart Fragrance",Beauty,844,374,367
+PROD10193,Gola Signature Board Game,Toys,867,372,367
+PROD10010,"Virk, Deluxe Home Decor",Home & Kitchen,864,372,369
+PROD10432,Gola Essential Fans & Cooler,Appliances,830,371,365
+PROD10347,"Murthy, Basic Beverage",Grocery,847,371,367
+PROD10179,Chander Compact Smartphone,Electronics,841,365,358
+PROD10501,"Loke, Deluxe Smartphone",Electronics,826,363,358
+PROD10202,Sidhu-Wadhwa Pro Men's Topwear,Fashion,838,362,357
+PROD10331,Madan-Kanda Smart Home Decor,Home & Kitchen,796,349,347
+PROD10144,"Sen, Pro Makeup",Beauty,815,348,343
+PROD10030,"Sen, Classic Smartwatche",Electronics,773,347,345
+PROD10385,Narayanan Everyday Snack,Grocery,762,346,345
+PROD10281,Kala-Rattan Basic Kids Wear,Fashion,790,345,337
+PROD10483,Boase-Narayanan Essential Cycling,Sports,793,344,340
+PROD10462,Borra Signature Printer,Office Supplies,752,343,340
+PROD10348,Dixit Everyday Travel Bag,Bags,791,342,336
+PROD10455,Karpe Signature Packaged Food,Grocery,803,338,334
+PROD10218,Kade-Sani Premium Comic,Books,790,336,332
+PROD10016,"Loke, Compact Fans & Cooler",Appliances,750,335,331
+PROD10015,"Nagy, Classic Storage",Furniture,739,335,330
+PROD10371,Sood Advanced Wallet,Bags,798,330,327
+PROD10169,Gala Compact Winter Wear,Fashion,750,329,326
+PROD10320,"Shetty, Premium Digital Watche",Watches,755,326,321
+PROD10122,Setty Deluxe Bedding,Home & Kitchen,733,322,319
+PROD10226,"Loke, Everyday Bath & Body",Personal Care,726,318,313
+PROD10454,Shanker-Dhar Everyday Formal Shoe,Footwear,751,317,315
+PROD10134,Palla Signature Charger,Mobile Accessories,758,316,315
+PROD10006,Sen Compact Cycling,Sports,727,313,312
+PROD10414,"Nair, Ultra Storage & Container",Home & Kitchen,711,312,311
+PROD10100,Sarin Compact Fans & Cooler,Appliances,730,310,310
+PROD10311,Wali-Nadig Basic Beverage,Grocery,764,308,302
+PROD10431,Palla Essential Cookware,Home & Kitchen,755,306,301
+PROD10142,Choudhury Basic Men's Topwear,Fashion,691,305,300
+PROD10362,"Mittal, Ultra Smart Watche",Watches,677,297,292
+PROD10089,"Khanna, Pro Oral Care",Personal Care,677,292,291
+PROD10180,"Nair, Essential Air Conditioner",Appliances,652,288,286
+PROD10444,Borra Pro Staple,Grocery,651,285,281
+PROD10066,Pingle Everyday Winter Wear,Fashion,649,282,281
+PROD10467,"Yohannan, Advanced Electronic Instrument",Musical Instruments,640,279,278
+PROD10239,Pant-Kadakia Signature Handbag,Bags,638,279,276
+PROD10489,"Sen, Premium Packaged Food",Grocery,631,278,272
+PROD10253,Gupta-Chandra Everyday Children's Book,Books,600,278,276
+PROD10419,Rastogi Premium Cable,Mobile Accessories,618,277,274
+PROD10168,Grewal Ultra Soft Toy,Toys,656,277,273
+PROD10306,Handa Advanced Laptop,Electronics,647,276,276
+PROD10254,"Mittal, Smart Screen Guard",Mobile Accessories,629,271,271
+PROD10070,"Bhargava, Signature Kids Wear",Fashion,605,268,267
+PROD10175,"Dugar, Everyday Formal Shoe",Footwear,594,266,266
+PROD10086,Sankar Classic Dairy,Grocery,624,263,261
+PROD10131,Parmar Compact Winter Wear,Fashion,620,263,257
+PROD10161,"Choudhury, Compact Wallet",Bags,583,263,260
+PROD10312,Ray Everyday Packaged Food,Grocery,610,260,256
+PROD10358,Barad-Singhal Smart Fragrance,Beauty,635,260,256
+PROD10106,"Loke, Ultra Staple",Grocery,608,260,257
+PROD10289,Memon Pro Backpack,Bags,592,255,252
+PROD10160,"Bhagat, Premium Action Figure",Toys,554,253,248
+PROD10298,Handa Advanced Diaper,Baby Care,599,251,250
+PROD10470,Barad-Singhal Ultra Sports Shoe,Footwear,566,248,246
+PROD10378,Grewal Premium Supplement,Health & Wellness,581,247,245
+PROD10506,Chander Advanced Oral Care,Personal Care,582,243,241
+PROD10399,Ray Essential Dairy,Grocery,532,242,239
+PROD10011,Bhatt Smart Women's Casual,Footwear,581,241,240
+PROD10433,Bhatti-Kakar Advanced Storage & Container,Home & Kitchen,556,240,238
+PROD10496,"Divan, Everyday Ayurveda",Health & Wellness,551,232,231
+PROD10014,Handa Premium Packaged Food,Grocery,530,231,227
+PROD10104,Nath Classic Women's Casual,Footwear,543,231,228
+PROD10261,"Lala, Everyday Pens & Pencil",Stationery,546,229,228
+PROD10115,Rai Essential Travel Bag,Bags,515,228,228
+PROD10332,"Dugar, Classic Office Furniture",Furniture,501,228,226
+PROD10518,Chanda Ultra Dairy,Grocery,509,225,224
+PROD10466,"Krish, Classic Camera",Electronics,530,224,222
+PROD10077,Gupta-Chandra Everyday Wallet,Bags,531,224,223
+PROD10394,"Hayer, Smart Women's Western Wear",Fashion,486,220,218
+PROD10221,Bhatt-Rajan Everyday Fragrance,Beauty,525,220,218
+PROD10405,Dutta Classic Academic,Books,516,219,217
+PROD10282,"Saraf, Classic Dinnerware",Home & Kitchen,504,218,217
+PROD10473,Pingle Pro Men's Bottomwear,Fashion,521,216,213
+PROD10271,Dave Smart Staple,Grocery,472,214,213
+PROD10252,Madan-Kanda Deluxe Speaker,Electronics,508,214,213
+PROD10050,Boase-Narayanan Classic Women's Ethnic Wear,Fashion,504,214,214
+PROD10324,"Ray, Advanced Packaged Food",Grocery,496,212,209
+PROD10095,"Lanka, Pro Packaged Food",Grocery,496,209,208
+PROD10308,Gara-Chad Essential Cookware,Home & Kitchen,479,209,208
+PROD10459,"Saraf, Basic Men's Casual",Footwear,487,208,207
+PROD10073,"Sami, Smart Car Accessorie",Automotive Accessories,473,206,206
+PROD10471,Mutti Smart Children's Book,Books,473,206,202
+PROD10339,Goel Basic Headphone,Electronics,468,205,204
+PROD10457,Ahuja-Dutta Premium Fragrance,Beauty,490,204,202
+PROD10058,"Konda, Basic Smartphone",Electronics,463,204,200
+PROD10424,Vaidya-D’Alia Classic Beverage,Grocery,457,203,203
+PROD10538,Sabharwal-Kothari Advanced Comic,Books,442,203,201
+PROD10314,Nath Deluxe Phone Case,Mobile Accessories,447,202,199
+PROD10057,"Solanki, Signature Cookware",Home & Kitchen,478,202,200
+PROD10094,Morar Basic Art Supplie,Stationery,458,200,198
+PROD10048,"Choudhury, Basic Cricket Gear",Sports,459,200,199
+PROD10052,Setty Smart Makeup,Beauty,442,197,196
+PROD10505,Murthy Ultra Men's Topwear,Fashion,464,197,193
+PROD10325,"Nair, Everyday Sandals & Flip Flop",Footwear,422,196,193
+PROD10436,"Sunder, Classic Men's Bottomwear",Fashion,445,195,195
+PROD10361,Sood Basic Kitchen Appliance,Appliances,457,195,194
+PROD10264,Gala Essential Pet Food,Pet Supplies,447,194,193
+PROD10425,"Khanna, Compact Men's Casual",Footwear,439,193,190
+PROD10081,Bhatti-Kakar Premium Fitness Equipment,Sports,448,193,192
+PROD10025,Kade-Sani Basic Snack,Grocery,424,192,189
+PROD10406,Grewal Basic Storage & Container,Home & Kitchen,437,191,190
+PROD10446,Dewan-Koshy Advanced Cable,Mobile Accessories,440,191,190
+PROD10299,"Lall, Essential Charger",Mobile Accessories,439,189,189
+PROD10465,Barad-Singhal Compact Board Game,Toys,458,189,187
+PROD10472,"Bhat, Advanced Home Decor",Home & Kitchen,414,188,186
+PROD10108,"Solanki, Deluxe Office Furniture",Furniture,439,187,187
+PROD10237,Kalla-Bhardwaj Signature Educational Toy,Toys,445,187,187
+PROD10196,Dutta-Chokshi Deluxe Fans & Cooler,Appliances,447,186,184
+PROD10005,Bhatt Essential Skincare,Beauty,426,185,185
+PROD10485,Randhawa-Deep Compact Analog Watche,Watches,449,184,183
+PROD10214,"Ray, Everyday Yoga",Sports,421,183,183
+PROD10522,Kala-Rattan Classic Dairy,Grocery,421,183,181
+PROD10217,Bajwa Pro Snack,Grocery,448,183,183
+PROD10088,Kala-Vaidya Premium Staple,Grocery,434,180,178
+PROD10123,"Prakash, Basic Office Equipment",Office Supplies,419,178,176
+PROD10453,"Chaudhry, Compact Home Decor",Home & Kitchen,406,175,174
+PROD10464,"Mittal, Signature Air Conditioner",Appliances,384,175,175
+PROD10102,Brar Classic Smartphone,Electronics,387,175,174
+PROD10198,"Solanki, Deluxe Dairy",Grocery,383,173,172
+PROD10087,Varma-Nayak Classic Home Decor,Home & Kitchen,398,171,169
+PROD10257,Nori-Chopra Smart Headphone,Electronics,395,170,169
+PROD10199,Pant-Kadakia Basic Soft Toy,Toys,390,170,170
+PROD10020,Bhatti-Kakar Ultra Non-Fiction,Books,402,170,170
+PROD10318,Roy-Sibal Premium Baby Food,Baby Care,371,169,168
+PROD10059,Rai Compact Wallet,Bags,374,167,166
+PROD10482,"Mital, Classic Art Supplie",Stationery,403,165,165
+PROD10443,"Yadav, Signature Yoga",Sports,373,164,163
+PROD10158,"Ray, Signature Board Game",Toys,376,163,163
+PROD10293,Salvi Ultra Diaper,Baby Care,362,163,163
+PROD10369,"Baral, Signature Office Furniture",Furniture,361,162,162
+PROD10384,Gupta-Kumar Signature Non-Fiction,Books,360,161,161
+PROD10250,"Ray, Basic Women's Western Wear",Fashion,397,161,161
+PROD10224,Grewal Smart Power Bank,Mobile Accessories,336,158,158
+PROD10116,Chander Pro Headphone,Electronics,347,157,156
+PROD10127,Morar Deluxe Men's Casual,Footwear,350,157,156
+PROD10323,"Chaudhari, Pro Storage",Furniture,383,157,157
+PROD10141,Choudhury Ultra Makeup,Beauty,360,156,154
+PROD10182,Sen Premium Laptop,Electronics,337,155,155
+PROD10220,"Konda, Advanced Men's Casual",Footwear,352,154,153
+PROD10328,"Sane, Basic Storage & Container",Home & Kitchen,356,154,151
+PROD10034,Apte-Contractor Deluxe Smartwatche,Electronics,348,150,150
+PROD10036,Goda Ultra Office Furniture,Furniture,330,149,149
+PROD10389,Gola Smart Charger,Mobile Accessories,322,149,149
+PROD10173,"Choudhury, Deluxe Digital Watche",Watches,316,149,148
+PROD10329,Ray Advanced Fragrance,Beauty,341,149,149
+PROD10401,Roy-Sibal Advanced Handbag,Bags,326,148,147
+PROD10415,Handa Compact Men's Topwear,Fashion,357,146,144
+PROD10292,Wali-Nadig Signature Home Decor,Home & Kitchen,331,146,145
+PROD10507,"Lanka, Compact Packaged Food",Grocery,346,146,146
+PROD10107,Nori-Chopra Essential Travel Bag,Bags,321,146,146
+PROD10215,D’Alia-Chhabra Smart Men's Topwear,Fashion,329,146,146
+PROD10248,Salvi Advanced Dinnerware,Home & Kitchen,328,145,145
+PROD10402,Mutti Advanced Dinnerware,Home & Kitchen,345,145,144
+PROD10071,Kapoor Classic Laptop,Electronics,334,144,144
+PROD10146,Rastogi Essential Speaker,Electronics,337,144,143
+PROD10477,Dutta Compact Board Game,Toys,358,144,142
+PROD10363,Vaidya-D’Alia Premium Women's Casual,Footwear,337,142,141
+PROD10033,"Kade, Advanced Women's Western Wear",Fashion,338,141,140
+PROD10045,"Nagy, Deluxe Skincare",Beauty,296,141,138
+PROD10285,Brar Premium Men's Bottomwear,Fashion,332,140,139
+PROD10062,Acharya-Modi Signature Haircare,Beauty,355,140,140
+PROD10263,Sabharwal-Kothari Premium Wallet,Bags,335,140,139
+PROD10147,Iyengar Smart Women's Casual,Footwear,312,138,136
+PROD10529,Karpe Smart Beverage,Grocery,321,138,136
+PROD10356,Lal Smart Cycling,Sports,322,136,135
+PROD10468,Bhatt Ultra Cycling,Sports,315,136,135
+PROD10544,Kale Premium Home Decor,Home & Kitchen,296,135,134
+PROD10132,Dewan-Koshy Classic Diaper,Baby Care,328,135,135
+PROD10251,"Dugar, Essential Travel Bag",Bags,297,134,133
+PROD10063,Dara-Kota Compact Smartwatche,Electronics,316,133,133
+PROD10149,Dave Ultra Cookware,Home & Kitchen,296,133,132
+PROD10171,Naik Signature Sandals & Flip Flop,Footwear,314,133,133
+PROD10315,Kala-Vaidya Everyday Medical Device,Health & Wellness,308,133,132
+PROD10186,Gupta-Chandra Pro Storage,Furniture,292,131,130
+PROD10360,Narayanan Ultra Dairy,Grocery,307,131,130
+PROD10381,"Sane, Signature Grooming",Personal Care,302,131,131
+PROD10330,Varma-Nayak Premium Women's Western Wear,Fashion,304,130,129
+PROD10540,Rai Everyday Soft Toy,Toys,311,130,129
+PROD10438,Wali-Nadig Premium Pens & Pencil,Stationery,312,130,128
+PROD10125,Handa Compact Winter Wear,Fashion,304,130,130
+PROD10165,"Bhat, Advanced Phone Case",Mobile Accessories,310,129,129
+PROD10110,Iyengar Smart Phone Case,Mobile Accessories,271,127,126
+PROD10520,Kohli-Divan Ultra Travel Bag,Bags,305,126,125
+PROD10536,Pant-Kadakia Pro Makeup,Beauty,292,125,125
+PROD10396,"Bala, Advanced Sports Shoe",Footwear,303,124,123
+PROD10037,Behl-Chanda Smart Kids Wear,Fashion,271,124,123
+PROD10513,Gupta-Kumar Basic Cookware,Home & Kitchen,268,123,123
+PROD10145,"Mittal, Premium Living Room",Furniture,315,123,123
+PROD10310,"Boase, Pro Men's Topwear",Fashion,252,123,123
+PROD10450,"Dash, Pro Ayurveda",Health & Wellness,273,122,120
+PROD10249,"Nagy, Everyday Headphone",Electronics,275,122,122
+PROD10162,"Nagy, Advanced Speaker",Electronics,275,121,121
+PROD10026,"Cherian, Everyday Handbag",Bags,259,120,119
+PROD10185,"Mistry, Everyday Makeup",Beauty,290,120,120
+PROD10291,"Rastogi, Compact Dinnerware",Home & Kitchen,283,120,120
+PROD10138,Sankar Advanced Women's Ethnic Wear,Fashion,249,120,120
+PROD10201,Sood Compact Headphone,Electronics,263,117,117
+PROD10345,"Rastogi, Advanced Home Decor",Home & Kitchen,261,115,115
+PROD10194,Boase-Narayanan Ultra Speaker,Electronics,277,114,114
+PROD10449,Kaul Pro Storage & Container,Home & Kitchen,263,114,113
+PROD10046,"Virk, Classic Winter Wear",Fashion,273,113,113
+PROD10080,"Sane, Everyday Women's Western Wear",Fashion,260,113,113
+PROD10495,Acharya-Modi Essential Digital Watche,Watches,263,112,112
+PROD10273,Dave Essential Large Appliance,Appliances,260,111,111
+PROD10079,"Krish, Smart Cookware",Home & Kitchen,245,111,110
+PROD10479,"Bir, Advanced Grooming",Personal Care,268,110,110
+PROD10397,Borra Premium Smartwatche,Electronics,265,109,109
+PROD10000,Sen Basic Staple,Grocery,246,109,109
+PROD10534,"Yadav, Deluxe Staple",Grocery,242,108,108
+PROD10049,Handa Compact Tablet,Electronics,238,108,108
+PROD10137,Chanda Smart Beverage,Grocery,244,108,107
+PROD10245,"Saraf, Classic Ayurveda",Health & Wellness,224,107,106
+PROD10150,"Chaudhari, Classic Phone Case",Mobile Accessories,247,107,107
+PROD10295,Parmar Deluxe Medical Device,Health & Wellness,257,106,106
+PROD10234,"Bhagat, Smart Bath & Body",Personal Care,232,106,106
+PROD10093,Handa Everyday Office Stationery,Stationery,253,105,104
+PROD10270,Roy-Sibal Essential Yoga,Sports,242,105,105
+PROD10517,"Mital, Classic Speaker",Electronics,266,105,105
+PROD10060,Batta Advanced Cable,Mobile Accessories,244,104,104
+PROD10238,"Kade, Basic Dairy",Grocery,220,100,100
+PROD10441,Keer Essential Living Room,Furniture,209,100,99
+PROD10244,"Virk, Premium Grooming",Personal Care,248,100,100
+PROD10395,Gala Basic Kids Wear,Fashion,204,100,99
+PROD10409,Sarin Deluxe Kids Wear,Fashion,227,99,99
+PROD10412,Pant-Kadakia Pro Home Decor,Home & Kitchen,231,99,98
+PROD10351,Rai Deluxe Action Figure,Toys,234,99,99
+PROD10344,Amble Classic Supplement,Health & Wellness,229,99,99
+PROD10398,"Lalla, Signature Comic",Books,212,98,97
+PROD10043,Bajwa Compact Camera,Electronics,238,98,98
+PROD10309,"Sen, Pro Snack",Grocery,245,97,96
+PROD10491,"Baral, Smart Office Furniture",Furniture,211,95,95
+PROD10290,Mangal-Sampath Classic Comic,Books,221,94,94
+PROD10515,Kade-Sani Basic Sandals & Flip Flop,Footwear,244,94,94
+PROD10069,"Bala, Signature Academic",Books,214,93,93
+PROD10461,"Yadav, Classic Men's Bottomwear",Fashion,215,92,92
+PROD10189,Merchant-Datta Everyday Winter Wear,Fashion,207,91,91
+PROD10504,Bhatt Compact Bath & Body,Personal Care,186,88,88
+PROD10386,Iyengar Deluxe Storage & Container,Home & Kitchen,210,88,88
+PROD10319,"Bhargava, Advanced Staple",Grocery,206,88,88
+PROD10313,Bajwa Basic Cookware,Home & Kitchen,193,88,88
+PROD10364,Sarin Signature Oral Care,Personal Care,194,87,86
+PROD10353,"Choudhury, Deluxe Bath & Body",Personal Care,208,87,85
+PROD10500,"Lall, Signature Women's Ethnic Wear",Fashion,191,87,86
+PROD10003,Madan-Kanda Signature Bedding,Home & Kitchen,199,86,86
+PROD10235,"Yohannan, Pro String Instrument",Musical Instruments,210,86,86
+PROD10091,Behl-Chanda Premium Women's Ethnic Wear,Fashion,197,84,84
+PROD10326,"Lala, Smart Haircare",Beauty,180,84,84
+PROD10136,Chanda Deluxe Outdoor Sport,Sports,203,83,82
+PROD10200,"Khanna, Deluxe Sports Shoe",Footwear,187,82,82
+PROD10463,Varma-Nayak Basic Bedding,Home & Kitchen,177,82,82
+PROD10183,Boase-Mallick Signature Action Figure,Toys,198,82,82
+PROD10400,Karpe Advanced Board Game,Toys,191,82,82
+PROD10428,Setty Ultra Packaged Food,Grocery,199,81,81
+PROD10278,Mangal-Sampath Premium Snack,Grocery,188,81,81
+PROD10208,Goda Basic Children's Book,Books,181,80,80
+PROD10097,"Ahluwalia, Basic Analog Watche",Watches,178,80,80
+PROD10373,"Khanna, Advanced Skincare",Beauty,182,80,79
+PROD10546,Wali-Nadig Compact Staple,Grocery,196,80,79
+PROD10109,Dutta Advanced Soft Toy,Toys,196,80,79
+PROD10076,Dutta Basic Medical Device,Health & Wellness,185,79,79
+PROD10543,Kalla-Bhardwaj Everyday Staple,Grocery,186,79,79
+PROD10486,"Yohannan, Deluxe Yoga",Sports,176,77,76
+PROD10083,Dave Essential Cable,Mobile Accessories,177,76,76
+PROD10283,"Hayer, Deluxe Skincare",Beauty,177,76,76
+PROD10265,Gupta-Chandra Deluxe Sandals & Flip Flop,Footwear,172,75,75
+PROD10519,Iyengar Classic Oral Care,Personal Care,179,75,75
+PROD10493,Behl-Chanda Classic Medical Device,Health & Wellness,175,75,75
+PROD10114,Handa Pro Filing & Storage,Office Supplies,169,74,74
+PROD10537,Mody-Kari Signature Wallet,Bags,176,74,74
+PROD10287,Behl-Chanda Everyday Backpack,Bags,168,73,73
+PROD10547,Mody-Kari Signature Ayurveda,Health & Wellness,155,72,72
+PROD10259,Kar-Issac Premium Storage & Container,Home & Kitchen,165,72,72
+PROD10012,"Nair, Ultra Kitchen Appliance",Appliances,170,71,71
+PROD10166,Upadhyay Basic Speaker,Electronics,155,70,70
+PROD10497,"Lall, Smart Yoga",Sports,154,70,70
+PROD10240,Gupta-Chandra Classic Filing & Storage,Office Supplies,163,70,70
+PROD10480,"Sane, Smart Supplement",Health & Wellness,154,69,69
+PROD10492,Khatri-Bhardwaj Pro Smartphone,Electronics,158,69,69
+PROD10256,"Lanka, Essential Laptop",Electronics,150,69,69
+PROD10284,Upadhyay-Ratta Everyday Sandals & Flip Flop,Footwear,157,68,68
+PROD10130,Gola Compact Winter Wear,Fashion,169,68,68
+PROD10204,Dara-Kota Classic Snack,Grocery,156,67,67
+PROD10302,Wali-Nadig Everyday Children's Book,Books,160,66,66
+PROD10452,Buch-Kaul Everyday Men's Topwear,Fashion,156,65,63
+PROD10056,"Sur, Essential Pet Accessorie",Pet Supplies,150,65,65
+PROD10260,"Sunder, Classic Bedding",Home & Kitchen,158,65,65
+PROD10451,"Divan, Compact Winter Wear",Fashion,138,64,64
+PROD10054,Thaman-Sandhu Smart Kitchen Appliance,Appliances,143,64,64
+PROD10334,Mody-Kari Ultra Packaged Food,Grocery,136,64,63
+PROD10178,Zacharia Advanced Car Care,Automotive Accessories,144,64,63
+PROD10190,Kar-Issac Essential Staple,Grocery,156,64,64
+PROD10359,"Solanki, Signature Snack",Grocery,151,63,63
+PROD10288,Kohli-Divan Advanced Printer,Office Supplies,150,63,63
+PROD10223,Grewal Essential Bath & Body,Personal Care,157,63,63
+PROD10476,Mutti Basic Fragrance,Beauty,144,63,62
+PROD10494,Ahuja-Dutta Classic Women's Ethnic Wear,Fashion,141,62,62
+PROD10001,Gupta-Chandra Essential Men's Bottomwear,Fashion,132,62,62
+PROD10105,"Ahluwalia, Signature Action Figure",Toys,132,61,61
+PROD10303,"Sami, Essential Men's Bottomwear",Fashion,135,61,61
+PROD10532,Dave Smart Screen Guard,Mobile Accessories,144,61,61
+PROD10338,Varma-Nayak Pro Bath & Body,Personal Care,142,60,60
+PROD10170,Dave Ultra Dinnerware,Home & Kitchen,135,60,60
+PROD10427,Kala-Vaidya Ultra Phone Case,Mobile Accessories,121,60,60
+PROD10028,Grewal Premium Makeup,Beauty,130,59,59
+PROD10119,Ramakrishnan Advanced Formal Shoe,Footwear,124,59,59
+PROD10404,"Sami, Signature Wallet",Bags,136,57,57
+PROD10456,Salvi Deluxe Supplement,Health & Wellness,121,57,57
+PROD10533,"Yadav, Essential Headphone",Electronics,120,56,56
+PROD10350,"Mistry, Essential Large Appliance",Appliances,137,55,55
+PROD10336,Gupta-Kumar Advanced Bath & Body,Personal Care,123,55,55
+PROD10227,Kala-Vaidya Premium Men's Casual,Footwear,127,55,55
+PROD10377,Ramakrishnan Premium Pens & Pencil,Stationery,142,54,54
+PROD10219,Shan Signature Women's Western Wear,Fashion,122,54,54
+PROD10212,Gara-Chad Signature Electronic Instrument,Musical Instruments,110,53,53
+PROD10340,Upadhyay Premium Fragrance,Beauty,124,53,53
+PROD10013,Andra Smart Backpack,Bags,130,52,52
+PROD10154,"Yohannan, Deluxe Educational Toy",Toys,119,52,52
+PROD10300,Keer Classic Oral Care,Personal Care,107,51,51
+PROD10128,"Choudhury, Smart Smartphone",Electronics,128,51,51
+PROD10113,"Nagy, Essential Smartphone",Electronics,117,50,50
+PROD10545,Ray Classic Phone Case,Mobile Accessories,132,50,50
+PROD10442,Bhatt Essential Camera,Electronics,133,50,50
+PROD10039,"Nair, Premium Storage",Furniture,111,49,49
+PROD10055,Kaul Classic Smart Watche,Watches,111,48,48
+PROD10195,"Lall, Basic Fragrance",Beauty,113,48,48
+PROD10068,Amble Classic Snack,Grocery,117,48,48
+PROD10061,Varma-Nayak Pro Women's Western Wear,Fashion,101,48,47
+PROD10229,Chanda Premium Staple,Grocery,114,48,48
+PROD10151,Randhawa-Deep Advanced Men's Bottomwear,Fashion,106,47,47
+PROD10075,"Lanka, Essential Beverage",Grocery,106,47,47
+PROD10375,"Ray, Classic Cookware",Home & Kitchen,124,47,47
+PROD10047,"Ray, Pro Office Furniture",Furniture,115,46,46
+PROD10420,Karpe Advanced Travel Bag,Bags,106,46,46
+PROD10410,"Bhagat, Everyday Cable",Mobile Accessories,108,45,45
+PROD10357,Keer Compact Men's Bottomwear,Fashion,103,45,45
+PROD10342,Kalla-Bhardwaj Compact Handbag,Bags,108,45,45
+PROD10475,"Konda, Classic Notebook",Stationery,108,44,44
+PROD10478,"Shetty, Compact Living Room",Furniture,105,44,44
+PROD10096,Gala Essential Makeup,Beauty,88,44,44
+PROD10053,Kala-Vaidya Compact Oral Care,Personal Care,88,43,43
+PROD10277,"Bhargava, Smart Air Conditioner",Appliances,99,43,43
+PROD10140,Setty Essential Home Decor,Home & Kitchen,108,43,42
+PROD10448,"Khanna, Signature Yoga",Sports,95,43,43
+PROD10413,"Kade, Compact Bedroom",Furniture,97,43,43
+PROD10354,Ramakrishnan Signature Winter Wear,Fashion,110,43,43
+PROD10388,Gara-Chad Pro Men's Bottomwear,Fashion,101,43,43
+PROD10121,Shanker-Dhar Basic Charger,Mobile Accessories,110,42,42
+PROD10232,Boase-Mallick Advanced Cable,Mobile Accessories,100,41,41
+PROD10516,Sarin Compact Oral Care,Personal Care,91,41,41
+PROD10032,Dara-Kota Advanced Academic,Books,89,41,41
+PROD10027,Mallick Advanced Power Bank,Mobile Accessories,89,41,41
+PROD10296,"Boase, Signature Medical Device",Health & Wellness,104,40,40
+PROD10120,Bhatt-Rajan Deluxe Kitchen Appliance,Appliances,89,40,40
+PROD10143,"Sane, Advanced Storage & Container",Home & Kitchen,99,40,40
+PROD10502,Morar Everyday Women's Western Wear,Fashion,79,39,39
+PROD10487,Amble Ultra Bedding,Home & Kitchen,87,38,38
+PROD10222,"Lalla, Deluxe Women's Ethnic Wear",Fashion,96,37,37
+PROD10009,Kapoor Pro Men's Bottomwear,Fashion,82,37,37
+PROD10184,Barad-Singhal Ultra Pet Food,Pet Supplies,91,37,37
+PROD10090,"Lanka, Everyday Office Stationery",Stationery,86,36,36
+PROD10391,Roy-Sibal Everyday Dairy,Grocery,75,35,35
+PROD10191,Barad-Singhal Pro Living Room,Furniture,76,35,35
+PROD10423,Parmer Premium Diaper,Baby Care,82,35,35
+PROD10139,"Mital, Compact Supplement",Health & Wellness,91,35,35
+PROD10074,"More, Essential Supplement",Health & Wellness,72,34,34
+PROD10213,"Lanka, Essential Cable",Mobile Accessories,91,34,34
+PROD10275,Ghosh-Mitra Signature Bedding,Home & Kitchen,76,33,33
+PROD10542,"Mital, Compact Skincare",Beauty,67,31,31
+PROD10286,Upadhyay-Ratta Classic Men's Bottomwear,Fashion,70,31,31
+PROD10474,Boase-Mallick Classic Tablet,Electronics,78,30,30
+PROD10084,Sabharwal-Kothari Pro Kids Wear,Fashion,65,30,30
+PROD10044,Keer Premium Men's Bottomwear,Fashion,65,30,29
+PROD10008,Sabharwal-Kothari Signature Snack,Grocery,71,30,30
+PROD10188,Karpe Pro Soft Toy,Toys,67,29,29
+PROD10523,"Bala, Smart Home Decor",Home & Kitchen,60,28,28
+PROD10022,"Cherian, Smart Office Furniture",Furniture,65,28,28
+PROD10159,"Yohannan, Ultra Screen Guard",Mobile Accessories,63,26,26
+PROD10206,Bajwa Ultra Grooming,Personal Care,62,26,26
+PROD10430,"Lala, Deluxe Medical Device",Health & Wellness,60,26,26
+PROD10274,Borra Basic Sandals & Flip Flop,Footwear,58,25,25
+PROD10514,Naik Pro Smartwatche,Electronics,63,23,23
+PROD10539,"Bhat, Pro Travel Bag",Bags,52,23,23
+PROD10407,Naik Essential Sandals & Flip Flop,Footwear,57,22,22
+PROD10103,Rai Advanced Car Care,Automotive Accessories,51,22,22
+PROD10447,Dutta Premium Backpack,Bags,46,22,22
+PROD10426,D’Alia-Chhabra Everyday Cable,Mobile Accessories,46,22,22
+PROD10241,Thaman-Sandhu Classic Phone Case,Mobile Accessories,48,20,20
+PROD10321,"Sen, Signature Grooming",Personal Care,40,20,20
+PROD10276,Bhatti-Kakar Essential Ayurveda,Health & Wellness,40,20,20
+PROD10243,Palla Classic Power Bank,Mobile Accessories,40,20,20
+PROD10197,Borra Compact Action Figure,Toys,52,19,19
+PROD10029,"Sami, Smart Printer",Office Supplies,49,18,18
+PROD10156,Shanker-Dhar Signature Staple,Grocery,39,18,18
+PROD10337,"Dash, Essential Women's Western Wear",Fashion,40,17,17
+PROD10307,Gandhi-Lanka Ultra Screen Guard,Mobile Accessories,38,17,17
+PROD10530,Pant-Kadakia Compact Large Appliance,Appliances,40,16,16
+PROD10352,"Virk, Compact Wallet",Bags,30,14,14
+PROD10082,"Baral, Classic Bath & Body",Personal Care,30,14,14
+PROD10065,Behl-Chanda Advanced Yoga,Sports,31,14,14
+PROD10460,Patla-Gaba Classic Percussion,Musical Instruments,26,13,13
